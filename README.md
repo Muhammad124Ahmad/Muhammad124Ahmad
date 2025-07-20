@@ -83,4 +83,4 @@ Currently pursuing the prestigious **IBM Full Stack Software Developer Professio
 ---
 
 > 🗓️ Last updated: July 20, 2025  
-> Designed with ❤️ by [Muhammad Ahmad Mubasher](https://www.linkedin.com/in/muhammad-ahmad-mubasher-27b666315)
+> Designed with 🧠 by [Muhammad Ahmad Mubasher](https://www.linkedin.com/in/muhammad-ahmad-mubasher-27b666315)
