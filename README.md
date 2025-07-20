@@ -52,7 +52,13 @@ Currently pursuing the prestigious **IBM Full Stack Software Developer Professio
 ![NoSQL](https://img.shields.io/badge/-NoSQL-0064a5?logo=apache-couchdb&logoColor=white)
 
 ---
-![snake gif](https://github.com/Muhammad124Ahmad/Muhammad124Ahmad/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ---
 ## 🧠 About Me
