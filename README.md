@@ -1,3 +1,5 @@
+<img src="https://github.com/Muhammad124Ahmad/Muhammad124Ahmad/blob/main/assets/banner.png" alt="banner" style="width:100%;"/>
+
 # 👋 Hi there, I'm Muhammad Ahmad Mubasher
 
 🚀 Full Stack Developer (MERN) | IBM Cloud Dev Trainee  
