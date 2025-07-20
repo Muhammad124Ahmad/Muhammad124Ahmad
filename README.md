@@ -52,7 +52,9 @@ Currently pursuing the prestigious **IBM Full Stack Software Developer Professio
 ![NoSQL](https://img.shields.io/badge/-NoSQL-0064a5?logo=apache-couchdb&logoColor=white)
 
 ---
+![snake gif](https://github.com/Muhammad124Ahmad/Muhammad124Ahmad/blob/output/github-contribution-grid-snake.svg)
 
+---
 ## 🧠 About Me
 
 - 🎓 Currently completing IBM Full Stack Software Developer Certificate (ACE® & FIBAA accredited)
