@@ -1,4 +1,4 @@
-<img src="https://github.com/Muhammad124Ahmad/Muhammad124Ahmad/blob/main/assets/banner.png" alt="banner" style="width:100%;"/>
+<img src="https://github.com/Muhammad124Ahmad/Muhammad124Ahmad/blob/main/assets/GH-Banner.png" alt="banner" style="width:100%;"/>
 
 # 👋 Hi there, I'm Muhammad Ahmad Mubasher
 
