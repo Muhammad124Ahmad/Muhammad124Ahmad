@@ -2,33 +2,32 @@
 
 # 👋 Hi there, I'm Muhammad Ahmad Mubasher
 
-🚀 Full Stack Developer (MERN) | IBM Cloud Dev Trainee  
-💻 Open to Remote Roles | React.js • Node.js • MongoDB • Express • GitHub  
-📚 Learning in Public | Building Cloud Native Applications | IBM-Certified
+🚀 Full Stack Developer (MERN) | IBM & Oracle Cloud Certified Professional  
+💻 Open to Remote Roles | React.js • Node.js • MongoDB • Express • AI/ML  
+📚 Learning in Public | Building Cloud Native Applications | Multi-Cloud Certified
 
 ---
 
-## 🎓 IBM Full Stack Software Developer Certificate (15-Course Series)
+## 🏆 Professional Certifications
 
-Currently pursuing the prestigious **IBM Full Stack Software Developer Professional Certificate**—an intensive program focused on front-end, back-end, DevOps, and cloud-native application development.
+### ✅ **IBM Full Stack Software Developer Professional Certificate** (Completed)
+*15-Course Series - ACE® & FIBAA Accredited*
 
-🧠 Technologies & Concepts Covered:
-- Front-end: HTML, CSS, JavaScript, React
-- Back-end: Node.js, Express, Python, Django, Flask
-- Databases: SQL, NoSQL, MongoDB, Django ORM
-- Cloud: IBM Cloud, Cloud Foundry, Cloud Object Storage
-- Containers: Docker, Kubernetes, OpenShift, Istio
-- DevOps: GitHub, CI/CD, Toolchains, GitHub Actions
-- Architectures: Microservices, Serverless Computing
-- Others: Bootstrap, Application Security, Generative AI Tools
+### ✅ **Oracle Cloud Infrastructure (OCI) Certifications** (Completed)
+- **OCI AI Foundations 2025** - AI/ML fundamentals and applications
+- **OCI Cloud Foundations 2025** - Core cloud infrastructure and services  
+- **OCI Generative AI Professional 2025** - Advanced GenAI implementation and deployment
 
-🏗️ Projects (In Progress):
-- React + Node.js full-stack apps
-- Containerized guestbook app (Docker + K8s + OpenShift)
-- AI-based app on Cloud Foundry
-- Microservices & serverless cloud-native app
-- Django & Bootstrap database app
-- HTML/CSS/JS web pages hosted on cloud
+🧠 **Technologies & Concepts Mastered:**
+- **Frontend:** HTML5, CSS3, JavaScript ES6+, React.js, Bootstrap
+- **Backend:** Node.js, Express.js, Python, Django, Flask
+- **Databases:** SQL, NoSQL, MongoDB, PostgreSQL, Django ORM
+- **Cloud Platforms:** IBM Cloud, Oracle Cloud Infrastructure (OCI)
+- **AI/ML:** Generative AI, Machine Learning Models, NLP, Sentiment Analysis
+- **Containers:** Docker, Kubernetes, OpenShift, Istio
+- **DevOps:** GitHub Actions, CI/CD Pipelines, Cloud Foundry
+- **Architectures:** Microservices, Serverless Computing, Cloud-Native Apps
+- **Security:** Application Security, Cloud Security, Authentication (JWT)
 
 ---
 
@@ -50,8 +49,10 @@ Currently pursuing the prestigious **IBM Full Stack Software Developer Professio
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?logo=red-hat-open-shift&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?logo=ibm-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
+![AI](https://img.shields.io/badge/-Generative%20AI-FF6B35?logo=openai&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=github-actions&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-0064a5?logo=apache-couchdb&logoColor=white)
 
 ---
 <picture>
@@ -63,19 +64,61 @@ Currently pursuing the prestigious **IBM Full Stack Software Developer Professio
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ---
+
 ## 🧠 About Me
 
-- 🎓 Currently completing IBM Full Stack Software Developer Certificate (ACE® & FIBAA accredited)
-- 💡 Passionate about building production-ready cloud-native apps
-- 🧪 Practicing CI/CD, Docker, Kubernetes & DevOps pipelines
-- 🧠 Exploring AI integration in software development
-- 🤝 Open to **remote roles** & collaborations in MERN and cloud-native ecosystems
+- 🎓 **IBM Full Stack Professional** & **Oracle Cloud AI Certified** Developer
+- 💡 Passionate about building production-ready cloud-native applications with AI integration
+- 🧪 Expert in CI/CD, Docker, Kubernetes & multi-cloud DevOps pipelines
+- 🤖 Specialized in **Generative AI** implementation and **ML model deployment**
+- 🚀 Successfully deployed end-to-end applications on **IBM Cloud Engine** and **OCI**
+- 🤝 Open to **remote roles** & collaborations in MERN, AI/ML, and cloud-native ecosystems
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 **PluckD - Community Marketplace Platform**
+*"Pluck it. Swap it. Love it."*
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=IBM%20Cloud&logoColor=white)](https://www.ibm.com/cloud)
+
+**My first end-to-end full-stack MERN application** - A community-driven platform for sharing second-hand items.
+
+🔗 **Live Demo:** [PluckD Website](https://pluckdwebsite.1zl7uf3hsx1e.us-south.codeengine.appdomain.cloud)  
+📁 **Repository:** [GitHub - PluckD](https://github.com/Muhammad124Ahmad/pluckd)
+
+**🎯 Key Features:**
+- **🔐 JWT Authentication** - Secure user registration and login system
+- **📦 Item Listings** - Create, browse, and manage second-hand item posts
+- **💬 Smart Comments** - AI-powered sentiment analysis with emoji reactions (🥱😞😊)
+- **🔍 Advanced Search** - Filter and discover items by keywords and categories
+- **📱 Responsive Design** - Optimized for all device types
+
+**⚡ Technical Highlights:**
+- **Cloud-Native Architecture** - Fully deployed on IBM Code Engine
+- **Containerized Deployment** - Docker containers for scalable infrastructure  
+- **CI/CD Pipeline** - Automated testing and deployment with GitHub Actions
+- **NLP Integration** - Real-time sentiment analysis using Natural Language Processing
+- **RESTful API** - Complete backend API with comprehensive documentation
+- **Database Design** - Efficient MongoDB schema with optimized queries
+
+**🛠️ Tech Stack:** React.js, Node.js, Express.js, MongoDB, Docker, IBM Cloud Engine, Natural (NLP), JWT
+
+---
+
+### 🚧 **More Projects Coming Soon...**
+*Currently developing additional portfolio projects showcasing AI integration, microservices architecture, and advanced cloud deployments.*
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-mubasher-27b666315)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad510ahmad-dev)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:muhammad510ahmad@gmail.com)
 
 ---
 
@@ -86,11 +129,16 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ---
 
-## 🛠️ Projects
+## 🎯 Current Focus
 
-🚧 *Working on portfolio projects as part of the IBM certification. Stay tuned for hands-on apps built using MERN, Docker, Kubernetes, and more!*
+- 🔬 **Exploring Advanced AI/ML** - Implementing GenAI in full-stack applications
+- ☁️ **Multi-Cloud Expertise** - Mastering both IBM Cloud and Oracle Cloud Infrastructure
+- 🏗️ **Microservices Architecture** - Building scalable, distributed systems
+- 🤖 **AI-Powered Applications** - Integrating machine learning models into web apps
+- 📈 **Performance Optimization** - Scaling applications for production workloads
 
 ---
 
-> 🗓️ Last updated: July 20, 2025  
-> Designed with 🧠 by [Muhammad Ahmad Mubasher](https://www.linkedin.com/in/muhammad-ahmad-mubasher-27b666315)
+> 🗓️ Last updated: August 27, 2025  
+> Designed with 🧠 by [Muhammad Ahmad Mubasher](https://www.linkedin.com/in/muhammad510ahmad-dev)  
+> **IBM & Oracle Certified Full Stack Developer**
