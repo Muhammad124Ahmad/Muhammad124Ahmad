@@ -109,6 +109,38 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 **🛠️ Tech Stack:** React.js, Node.js, Express.js, MongoDB, Docker, IBM Cloud Engine, Natural (NLP), JWT
 
 ---
+### 📊 **Saaslytic - Modern SaaS Analytics Dashboard**
+*"Track. Analyze. Grow."*
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+
+**A full-featured SaaS dashboard template** – Real authentication, customer management, payments, analytics, and a beautiful UI.
+
+🔗 **Live Demo:** [Saaslytic App](https://saas-next-js-dashboard.vercel.app/)  
+📁 **Repository:** [GitHub - Saaslytic](https://github.com/Muhammad124Ahmad/Saas-NextJS-Dashboard)
+
+**🎯 Key Features:**
+- **🔒 Authentication** – Secure sign up, login, and logout (Supabase Auth)
+- **👤 Customer Management** – Add, edit, and manage customers and plans
+- **💳 Payments** – Record and track customer payments
+- **📊 Analytics Dashboard** – Active users, signups, revenue, churn, user growth
+- **📝 Recent Activity** – Log of recent actions and events
+- **⚡ Role-Based Access** – Protected routes for authenticated users
+- **📱 Responsive Design** – Mobile-first, modern UI
+
+**⚡ Technical Highlights:**
+- **Next.js 15 App Router** – Fast, scalable, and SEO-friendly
+- **Supabase Backend** – Auth, database, and RLS security
+- **Tailwind CSS** – Utility-first, easily customizable styling
+- **TypeScript** – Type-safe, production-ready code
+- **Open Source** – MIT licensed, easy to extend
+
+**🛠️ Tech Stack:** Next.js, React, Supabase, Tailwind CSS, TypeScript, Vercel
+
+---
 
 ### 🚧 **More Projects Coming Soon...**
 *Currently developing additional portfolio projects showcasing AI integration, microservices architecture, and advanced cloud deployments.*
